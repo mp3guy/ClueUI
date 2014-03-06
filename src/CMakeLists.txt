@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8)
-
+project(ClueUI)
 find_package(Qt4 REQUIRED)
 include(${QT_USE_FILE})
 
